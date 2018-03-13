@@ -1,2 +1,2 @@
 <?php
-echo 'ola meu nome é goku e eu sou legal';
+echo 'ola meu nome é <b>goku</b> e eu sou <i>legal</i>';
